@@ -7,7 +7,7 @@ Book Search Engine is a site in which users can search for any book by title or 
 
 License
 ----------------------------------------------------------------------------------------------
-This project is license under MIT ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+This project is licensed under MIT ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 Technologies Used
 ----------------------------------------------------------------------------------------------
